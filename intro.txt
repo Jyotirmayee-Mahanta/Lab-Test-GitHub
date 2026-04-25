@@ -1,1 +1,2 @@
 Hello, I am Jyotirmayee. I am learning Git and GitHub.
+Skills: Git,GitHub;  Programming Lang: Java,React,NodeJs,c,c++,Python
